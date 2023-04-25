@@ -1,1 +1,0 @@
-# novstory.github.io
