@@ -1,5 +1,6 @@
 # Site settings
 title: November Story     # site title
+description: >-           # site description
 lang: en-US               # default lang
 timezone: Asia/Seoul      # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -53,7 +54,7 @@ jekyll_compose:
   post_default_front_matter:
     modified:
     tags: []
-    description:
+    # description:
   draft_default_front_matter:
     modified:
     tags: []
