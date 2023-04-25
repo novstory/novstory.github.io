@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dbdbdeep11.github.io/sitemap.xml
+Sitemap: https://novstory.github.io/sitemap.xml
