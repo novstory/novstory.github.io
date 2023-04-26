@@ -1,5 +1,5 @@
 # Site settings
-title: November Story     # site title
+title: Nov[ember] Story   # site title
 lang: en-US               # default lang
 timezone: Asia/Seoul      # set your timezone
 mode: dark                # default theme "dark" | "light"
