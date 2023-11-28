@@ -45,7 +45,7 @@ defaults:
       path: ""
     values:
       layout: post
-      comments: true
+      comments: false
 
 # Jekyll Compose default front matter
 jekyll_compose:
@@ -89,9 +89,3 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
-
-comments:
-  active: utterances
-  utterances:
-    repo: novstory/novstory.github.io
-    issue_term: pathname
